@@ -3,7 +3,7 @@ Bulding a program that help manage a vending machine
 -- The user interface is a command line
 
 ## Before using the application
-clone the project on the local development environment
+clone the project on the local development environment;
 Open the folder with your preferred IDE ... However I will suggest use Intellig which can be donwload at this link  https://www.jetbrains.com/idea/download/#section=windows.
 
 ## How to run the application
